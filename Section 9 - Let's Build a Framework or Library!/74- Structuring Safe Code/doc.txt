@@ -1,0 +1,7 @@
+GREETER BUILD: Official Requirements
+-When given a first name, last name, and optional
+  langage,  it generates formal and informal greetings
+-Support English, Polish and Spanish languages
+-Reusable library/framework
+-Easy to type 'G$()' structre
+-Support for jQuery
